@@ -1,0 +1,629 @@
+PROIEL	Checked	LASLA	POS	Info	Code	Texte	Var	Occs	Formes
+centum.quadraginta.quattuor	card		ADJcar					4	centum.quadraginta.quattuor
+centum.quinquaginta.tres	card		ADJcar					1	centum.quinquaginta.tribus
+centum.uiginti	card		ADJcar					1	centum.uiginti
+mille.ducenti.sexaginta	card		ADJcar					2	mille.ducentis.sexaginta
+mille.sescenti	card		ADJcar					1	mille.sescenta
+octoginta.quattuor	card		ADJcar					1	octoginta.quattuor
+quadraginta.duo	card		ADJcar					2	quadraginta.duo, quadraginta.duobus
+septuaginta.duo	CARD		ADJcar					2	septuaginta.duos, septuaginta.duo
+sescenti.sexaginta.sex	CARD		ADJcar					1	sescenti.sexaginta.sex
+uiginti.quattuor	CARD		ADJcar					4	uiginti.quattuor
+uiginti.quinque	CARD		ADJcar					1	uiginti.quinque
+bini	y	binus	ADJdis	, ae, a				3	binos, binas
+centeni	y	centeni	ADJdis	, ae, a	21			1	centenos
+sexagensimus	CARD		ADJord					1	sexagesimum
+africus	y	Africus	ADJqua	, a, um	23			1	africum
+animaequus	y	animaequus	ADJqua	, a, um	21			2	animaequior, animaequiores
+arcarius	y	arcarius	ADJqua	, a, um	21			1	arcarius
+azyma	y	azymus	ADJqua	, a, um	21			7	azymis, azymorum, azyma
+azymum	y	azymus	ADJqua	, a, um	21			1	azymorum
+azymus	y	azymus	ADJqua	, a, um	21			1	azymi
+bithalassus	y	bithalassus	ADJqua	, a, um	21	Abs. Forc. In Blaise Patristic		1	bithalassum
+carcedonius	y	carchedonius	ADJqua	, a, um	21		charchedonius/carcedonius	1	carcedonius
+centuplus	y	centuplus	ADJqua	, a, um	21			1	centuplum
+chananeus	y	chananeus	ADJqua	, a, um	21			1	chananea
+cilicinus	y	cilicinus	ADJqua	, a, um	21			1	cilicinus
+circumamictus	y	circumamictus	ADJqua	, a, um	21			1	circumamictos
+coccinum	y	coccinus	ADJqua	, a, um	21			1	coccino
+coinquinatus	y	coinquinatus	ADJqua	, a, um	21			1	coinquinatis
+collactaneus	y	collactaneus	ADJqua	, a, um	21		conlactaneus	1	conlactaneus
+concaptiuus	y	concaptiuus	ADJqua	, a, um	21			2	concaptiuos, concaptiuus
+coriarius	y	coriarius	ADJqua	, a, um	21			3	coriarii, coriarium
+cottidianus	y	quotidianus	ADJqua	, a, um	21		cotidianus/quottidianus/cottidianus	3	cotidianum, cotidiano, cotidiana
+dealbatus	y	dealbatus	ADJqua	, a, um	21			1	dealbate
+domestici	y	domesticus	ADJqua	, a, um	21			5	domestici, domesticos
+epicureus	y	epicureus	ADJqua	, a, um	21	In Forc. Onom.	epucereius/epicurius	1	epicurei
+ethnicus	y	ethnicus	ADJqua	, a, um	21			3	ethnici, ethnicus
+exfornicatus	y	exfornicatus	ADJqua	, a, um	21			1	exfornicatae
+extremum	y	exter	ADJqua	, a, um	21			3	extremum, extremis
+galaticus	y	galaticus	ADJqua	, a, um	21			1	galaticam
+hadrumentinus	y	hadrumetinus	ADJqua	, a, um	21	Cf. Hadrumetum	hadrumentinus/adrumentinus	1	hadrumetinam
+haereticus	y	haereticus	ADJqua	, a, um	21			1	hereticum
+hordiacius	y	hordeaceus	ADJqua	, a, um	21		ordeaceus/ordiacius/hordiacius	2	hordiaciis, hordiacios
+idolothytum	y	idolothytus	ADJqua	, a, um	21			1	idolothytis
+idolothytus	y	idolothytus	ADJqua	, a, um	21			2	idolothytum, idolothyta
+immaculatus	y	immaculatus	ADJqua	, a, um	21		inmaculatus	3	inmaculati, inmaculatos, inmaculata
+immolaticius	y	immolaticius	ADJqua	, a, um	21		inmolaticius/inmolatitius	1	immolaticium
+inaquosus	y	inaquosus	ADJqua	, a, um	21			1	inaquosa
+incircumcisus	y	incircumcisus	ADJqua	, a, um	21			1	incircumcisi
+inimica	y	inimicus2	ADJqua	, a, um	21			1	inimica
+insensatus	y	insensatus	ADJqua	, a, um	21			1	insensati
+iudaicus	y	iudaicus	ADJqua	, a, um	21		iudaeicus	1	iudaicis
+leprosus	y	leprosus	ADJqua	, a, um	21			9	leprosi, leprosus, leprosos
+longeuus	y	longaeuus	ADJqua	, a, um	21		longeuus	1	longeuus
+lunaticus	y	lunaticus	ADJqua	, a, um	21			1	lunaticos
+manufactus	y	manufactus	ADJqua	, a, um	21			6	manufactum, manufactis, manufactam, manufacta
+momentaneus	y	momentaneus	ADJqua	, a, um	21			1	momentaneum
+murratus	y	myrrhatus	ADJqua	, a, um	21		myrratus/murrhatus/murratus	1	murratum
+nouissimus	y	nouus	ADJqua	, a, um	21			43	nouissima, nouissimis, nouissimo, nouissimum, nouissimos, nouissimi, nouissimus
+orphanus	y	orphanus	ADJqua	, a, um	21		orfanus	1	orfanos
+pellicius	y	pellicius	ADJqua	, a, um	21		pelliceus	2	pellicia, pelliciam
+perlucidus	y	pellucidus	ADJqua	, a, um	21		perlucidus	1	perlucidum
+petrosa	y	petrosus	ADJqua	, a, um	21			4	petrosa
+pisticus	y	pisticus	ADJqua	, a, um	21			1	pistici
+primitiuus	y	primitiuus	ADJqua	, a, um	21			1	primitiuus
+primogenitus	y	primogenitus	ADJqua	, a, um	21			6	primogenitum, primogenitus
+probaticus	y	probaticus	ADJqua	, a, um	21			1	Probatica
+prosperus	y	prosper	ADJqua	, a, um	21		prosperus	1	prosperum
+quadriduanus	y	quatriduanus	ADJqua	, a, um	21		quadriduanus	1	quadriduanus
+quadrupedius	y	quadrupedus	ADJqua	, a, um	21		quadripedus/quadrupedius	1	quadrupedia
+quadruplus	y	quadruplus	ADJqua	, a, um	21			1	quadruplum
+quantus	y	quantus	ADJqua	, a, um	21			18	quanti, quantae, quanta, quantus, quantum, quantis, quantam
+reprobus	y	reprobus	ADJqua	, a, um	21			6	reprobum, reprobus, reprobi
+rufus	y	rufus	ADJqua	, a, um	21			2	rufus
+scenofactorius	y	scaenofactorius	ADJqua	, a, um	21		scenofactorius	1	scenofactoriae
+smaragdinus	y	smaragdinus	ADJqua	, a, um	21		zmaragdinus	1	zmaragdinae
+spineus	y	spineus	ADJqua	, a, um	21			2	spineam
+stoicus	y	stoicus	ADJqua	, a, um	21			1	stoici
+sulphureus	y	sulfureus	ADJqua	, a, um	21		sulphureus	1	sulphureas
+superadultus	y	superadultus	ADJqua	, a, um	21			1	superadulta
+thyinus	y	thyinus	ADJqua	, a, um	21			1	thyinum
+timefactus	y	timefactus	ADJqua	, a, um	21			1	timefactus
+timoratus	y	timoratus	ADJqua	, a, um	21			2	timorati, timoratus
+turpilucrus	y	turpilucrus	ADJqua	, a, um	21	cf. turpilucris, e		1	turpilucri
+typhonicus	y	typhonicus	ADJqua	, a, um	21			1	typhonicus
+unigenitus	y	unigenitus	ADJqua	, a, um	21			4	unigenitus, unigenitum, unigeniti
+praegnas	y	praegnans	ADJqua	, antis	23		praegnas	4	praegnatibus, praegnate
+acceptabilis	y	acceptabilis	ADJqua	, e	24		adceptibilis	1	acceptabile
+auctumnalis	y	auctumnalis	ADJqua	, e	24		autumnalis	1	autumnales
+austeris	Y	austeris	ADJqua	, e	24	Abs. Forc.		2	austeris
+carnalis	y	carnalis	ADJqua	, e	24			10	carnali, carnalibus, carnalia, carnalis, carnales
+conformis	y	conformis	ADJqua	, e	24			1	conformes
+contemptibilis	y	contemptibilis	ADJqua	, e	24		contemtibilis	3	contemptibilia, contemptibilis, contemptibiles
+corruptibilis	y	corruptibilis	ADJqua	, e	24	Comp. Corruptibilior	conruptibilis	3	corruptibilis, corruptibile, corruptibilem
+importabilis	y	importabilis	ADJqua	, e	24		importabilis	1	inportabilia
+impossibilis	y	impossibilis	ADJqua	, e	24		inpossibilis	8	inpossibile, inpossibilia
+inconsutilis	y	inconsutilis	ADJqua	, e	24			1	inconsutilis
+incorruptibilis	y	incorruptibilis	ADJqua	, e	24			1	incorruptibilis
+inenarrabilis	y	inenarrabilis	ADJqua	, e	24			2	inenarrabili, inenarrabilibus
+inexstinguibilis	y	inexstinguibilis	ADJqua	, e	24		inexstinguibilis	4	inextinguibilem, inextinguibilis, inextinguibili
+inuestigabilis	y	inuestigabilis	ADJqua	, e	24			2	inuestigabiles
+inuisibilis	y	inuisibilis	ADJqua	, e	24			3	inuisibilis, inuisibilia
+irreprehensibilis	y	irreprehensibilis	ADJqua	, e	24		inreprehensibilis	1	inreprehensibiles
+odibilis	y	odibilis	ADJqua	, e	24			2	odibiles
+passibilis	y	passibilis	ADJqua	, e	24			1	passibilis
+persuasibilis	y	persuasibilis	ADJqua	, e	24			1	persuasibilibus
+possibilis	y	possibilis	ADJqua	, e	24			7	possibilia, possibile
+pusillianimis	y	pusillanimis	ADJqua	, e	24	Cf. pusillanimus, a, um	pusillianimis	1	pusillianimes
+rationabilis	y	rationabilis	ADJqua	, e	24			1	rationabile
+reprehensibilis	y	reprehensibilis	ADJqua	, e	24			1	reprehensibilis
+spiritalis	y	spiritalis	ADJqua	, e	24		spiritualis	21	spiritalia, spiritalis, spiritalem, spiritali, spiritale, spiritalium, spiritalibus
+supersubstantialis	y	supersubstantialis	ADJqua	, e	24			1	supersubstantialem
+temporalis	y	temporalis	ADJqua	, e	24			3	temporalia, temporalis, temporales
+uisibilis	y	uisibilis	ADJqua	, e	24			1	uisibilia
+unianimis	y	unanimis	ADJqua	, e	24		unianimis	5	unianimes, unianimem
+impaenitens	y	impoenitens	ADJqua	, entis	23		impaenitens/inpoenitens/impenitens	1	inpaenitens
+mortiferus	y	mortifer	ADJqua	, fera, ferum	21		mortiferus	1	mortiferum
+proximus	y	propior	ADJqua	, ius, oris	23			12	proximum, proximos, proximo, proximas, proximus
+aethiops	y	Aethiops	ADJqua	, opis	24			1	aethiops
+summus	y	superus	ADJqua	, pĕra, pĕrum	21		summus	26	summo, summum, summus, summos, summis, summi
+secundoprimus	CARD		ADJqua					1	secundoprimo
+abundanter	y	abundanter	ADV			Comp. Abundantius; Sup. Abundantissime.		11	abundantius
+amodo	y	amodo	ADV					6	amodo
+audacter	y	audaciter	ADV				audacter	2	audacius, audacter
+cottidie	y	quotidie	ADV				cottidie/quottidie/cotidie	14	cotidie
+desursum	y	desursum	ADV					1	desursum
+fiducialiter	y	fiducialiter	ADV					4	fiducialiter
+gentiliter	y	gentiliter	ADV					1	gentiliter
+ilico	y	ilico	ADV					1	ilico
+importune	y	importune	ADV				inportune	1	inportune
+inordinate	y	inordinate	ADV			Cf. inordinatim		1	inordinate
+inquiete	y	inquiete	ADV					1	inquiete
+iterato	y	iterato	ADV					1	iterato
+iudaice	y	y	ADV					1	iudaice
+met	SPECIAL		ADV					59	met
+nouissime	y	noue	ADV					6	nouissime
+paullulum	y	paullulum	ADV				paululum	1	paululum
+retrorsus	y	retrorsum	ADV					2	retrorsum
+spiritaliter	y	spiritaliter	ADV				spiritualiter	2	spiritaliter
+superabundanter	y	superabundanter	ADV					1	superabundanter
+ulterius	y	ulterior	ADV				ulterius	1	ulterius
+unianimiter	y	unanimiter	ADV				unianimiter	6	unianimiter
+usquequo	y	usque	ADVint				usquequo	3	usquequo
+nequando	y	nequando	CONsub					2	nequando
+alleluia	y	alleluia	INJ					4	alleluia
+osanna	y	hosanna	INJ				osanna	6	osanna
+ua	y	ua	INJ					1	ua
+temptatio	y	tentatio	NOMcom	 i, f. 			temptatio	13	temptatio, temptationem, temptationis, temptationibus, temptatione
+nauclerius	y	nauclerius	NOMcom	, a, um				1	nauclerio
+proselytus	y	proselytus	NOMcom	, a, um				2	proselytum, proselyti
+sustinentia	y	sustinentia	NOMcom	, ae, f				1	sustinentiae
+synagoga	y	synagoga	NOMcom	, ae, f			sinagoga	60	synagogis, synagogam, synagoga, synagogas, synagogae
+alba	y	alba	NOMcom	, ae, f.				1	albas
+allegoria	y	allegoria	NOMcom	, ae, f.				1	allegoriam
+asina	y	asina	NOMcom	, ae, f.				5	asinae, asinam
+aurea	y	aurea	NOMcom	, ae, f.				3	auream
+buccella	y	buccella	NOMcom	, ae, f.				2	buccellam
+collecta	y	collecta	NOMcom	, ae, f.			conlecta	2	collectis, collectae
+concupiscentia	y	concupiscentia	NOMcom	, ae, f.				5	concupiscentiam, concupiscentiis, concupiscentiae
+corbanas	y	corbana	NOMcom	, ae, f.			corbanas/corban	1	corbanan
+corrigia	y	corrigia	NOMcom	, ae, f.			conrigia	3	corrigiam
+creatura	y	creatura	NOMcom	, ae, f.				18	creaturam, creatura, creaturae
+didragma	y	didrachma	NOMcom	, ae, f.				2	didragma
+dysenteria	y	dysenteria	NOMcom	, ae, f.				1	dysenteria
+elemosyna	y	eleemosyna	NOMcom	, ae, f.			elemosyna/elimosyna	13	elemosynis, elemosynas, elemosynam, elemosynae, elemosyna
+epistula	y	epistola	NOMcom	, ae, f.				21	epistulis, epistulas, epistulae, epistulam, epistula
+factura	y	factura	NOMcom	, ae, f.				1	factura
+fiala	y	phiala	NOMcom	, ae, f.			fiala	12	fialam, fialas
+ficulnea	y	ficulnea	NOMcom	, ae, f.		Cf. ficulneus, a, um		4	ficulneam, ficulnea
+fornicaria	y	fornicaria	NOMcom	, ae, f.				1	fornicariam
+gehenna	y	gehenna	NOMcom	, ae, f.			geena	11	gehennae, gehennam
+genealogia	y	genealogia	NOMcom	, ae, f.				1	genealogias
+harena	y	arena	NOMcom	, ae, f.			harena	4	harena, harenam
+idolatria	y	idololatria	NOMcom	, ae, f.			idolatria	1	idolatriae
+immunditia	y	immunditia	NOMcom	, ae, f.				9	inmunditia, inmunditiae, inmunditiam
+incorruptela	y	incorruptela	NOMcom	, ae, f.				2	incorruptelam
+inoboedientia	y	inobedientia	NOMcom	, ae, f.			inoboedientia	2	inoboedientiam
+lagona	y	lagena	NOMcom	, ae, f.			lagona	1	laguenam
+lampada	y	lampada	NOMcom	, ae, f.		Cf. lampas		1	lampadas
+lanterna	y	laterna	NOMcom	, ae, f.			lanterna	1	lanternis
+murra	y	myrrha	NOMcom	, ae, f.			murra/myrrha	2	murram, murrae
+natatoria	y	natatoria	NOMcom	, ae, f.				2	natatoriam, natatoria
+neomenia	y	neomenia	NOMcom	, ae, f.				1	neomeniae
+oboedientia	y	obedientia	NOMcom	, ae, f.			oboedientia	6	oboedientiam, oboedientia
+ostiaria	y	ostiaria	NOMcom	, ae, f.				1	ostiariae
+pascha	y	pascha1	NOMcom	, ae, f.		!= pascha2(, atis, n.)		28	paschae, pascha
+patriarcha	y	patriarcha	NOMcom	, ae, f.			patriarches	4	patriarchae, patriarcha, patriarchas
+praescientia	y	praescientia	NOMcom	, ae, f.				1	praescientia
+pressura	y	pressura	NOMcom	, ae, f.				5	pressura, pressurae, pressuram
+prophetia	y	prophetia	NOMcom	, ae, f.				14	prophetias, prophetia, prophetiam, prophetiae
+prophetissa	y	prophetissa	NOMcom	, ae, f.			profetessa	1	prophetissa
+purpuraria	y	purpuraria	NOMcom	, ae, f.				1	purpuraria
+romphea	y	rhomphaea	NOMcom	, ae, f.			romphea/romphaea	1	rompheam
+sagena	y	sagena	NOMcom	, ae, f.				1	sagenae
+scenopegia	y	scaenopegia	NOMcom	, ae, f.			scenopegia	1	scenopegia
+scola	y	schola	NOMcom	, ae, f.			scola	1	scola
+scopa	y	scopa	NOMcom	, ae, f.				2	scopis
+sicera	y	sicera	NOMcom	, ae, f.				1	sicera
+simila	y	simila	NOMcom	, ae, f.				1	similae
+sufficientia	y	sufficientia	NOMcom	, ae, f.			subficientia	2	sufficientiam, sufficientia
+uersutia	y	uersutia	NOMcom	, ae, f.				1	uersutiam
+euangelista	y	euangelista	NOMcom	, ae, m.				2	euangelistae
+exorcista	y	exorcista	NOMcom	, ae, m.				1	exorcistis
+hypocrita	y	hypocrites	NOMcom	, ae, m.			hypocrita	17	hypocritae, hypocrita, hypocritis
+idolatra	y	idolatres	NOMcom	, ae, m.			idolatra	1	idolatris
+mamona	y	mammona	NOMcom	, ae, m.		Cf. Mammon 	mamona/mamonas/mammonas	4	mamonae, mamona
+pseudopropheta	y	pseudopropheta	NOMcom	, ae, m.				8	pseudopropheta, pseudoprophetam, pseudoprophetes, pseudoprophetae
+quandrans	y	quadrans	NOMcom	, antis				1	quadrantem
+fimbria	y	fimbriae	NOMcom	, arum, f. plur.				4	fimbriam
+gallica	y	Gallicae	NOMcom	, arum, f. plur.				1	gallicas
+lepra	y	leprae	NOMcom	, arum, f. plur.			leprae/lepra/lebbra	4	lepra
+animositas	y	animositas	NOMcom	, atis, f.				1	animositates
+incredulitas	y	incredulitas	NOMcom	, atis, f.				10	incredulitatem, incredulitate, incredulitas
+longanimitas	y	longanimitas	NOMcom	, atis, f.				3	longanimitate, longanimitatis, longanimitas
+natiuitas	y	natiuitas	NOMcom	, atis, f.				2	natiuitate
+nuditas	y	nuditas	NOMcom	, atis, f.				3	nuditatis, nuditas, nuditate
+paternitas	y	paternitas	NOMcom	, atis, f.				1	paternitas
+anathema	y	anathema	NOMcom	, atis, n.				5	anathema
+aroma	y	aroma	NOMcom	, atis, n.				4	aromatibus, aromata
+baptisma	y	baptisma	NOMcom	, atis, n.				8	baptismate, baptismata, baptisma
+charisma	y	charisma	NOMcom	, atis, n.				1	charismata
+chasma	y	chasma	NOMcom	, atis, n.				1	chasma
+enigma	y	aenigma	NOMcom	, atis, n.			enigma	1	enigmate
+fantasma	y	fantasma	NOMcom	, atis, n.			fantasma	2	fantasma
+holocaustoma	y	holocaustoma	NOMcom	, atis, n.			holocautoma	1	holocaustomatibus
+peripsema	y	peripsema	NOMcom	, atis, n.				1	peripsima
+schisma	y	schisma	NOMcom	, atis, n.				3	scisma, scismata
+uiscera	y	uiscus1	NOMcom	, ĕris,	23		uiscera	9	uisceribus, uiscera
+caracter	y	character	NOMcom	, eris, m.	22			7	caracterem, caracter
+stater	y	stater	NOMcom	, eris, m.	22			1	staterem
+holus	y	olus	NOMcom	, eris, n.				4	holeribus, holus
+magice	y	magice	NOMcom	, es, f.				1	magicis
+parasceue	y	parasceue	NOMcom	, es, f.				6	parasceuen, parasceue, parasceues
+pentecoste	y	pentecoste	NOMcom	, es, f.				3	pentecosten, pentecostes
+hiemps	y	hiems	NOMcom	, hiemis			hiemps	4	hiemem, hiemps, hieme
+sycomorus	y	sycomorus	NOMcom	, i, f				1	sycomorum
+abyssus	y	abyssus	NOMcom	, i, f.				9	abyssi, abyssum, abysso
+amethistus	y	amethystos	NOMcom	, i, f.				1	amethistus
+byssus	y	byssus	NOMcom	, i, f.				1	byssi
+sapphyrus	y	sapphirus	NOMcom	, i, f.			Saphirus/Sappirus/sapphyrus	1	sapphyrus
+apostolus	y	apostolus	NOMcom	, i, m.				69	apostolos, apostoli, apostolum, apostolis, apostolus, apostolorum
+archangelus	y	archangelus	NOMcom	, i, m.				2	archangeli, archangelus
+archisynagogus	y	archisynagogus	NOMcom	, i, m.				6	archisynagogus, archisynagogis, archisynagogo, archisynagogi
+architriclinus	y	architriclinus	NOMcom	, i, m.				3	architriclino, architriclinus
+botrus	y	botrus	NOMcom	, i, m.				1	botros
+chrysolitus	y	chrysolithus	NOMcom	, i, m.			chrysolitus	1	chrysolitus
+chrysoprassus	y	chysoprasus	NOMcom	, i, m.			chrysoprassus	1	chrysoprassus
+cofinus	y	cophinus	NOMcom	, i, m.			cofinus	6	cofinos, cofini
+diabolus	y	diabolus	NOMcom	, i, m.				24	diabolo, diabolus, Diabolus, diaboli
+diaconus	y	diaconus	NOMcom	, i, m.			diacnus	1	diaconis
+gallus	y	Gallus	NOMcom	, i, m.				13	galli, gallus
+grabattus	y	grabatus	NOMcom	, i, m.			grabattus	12	grabattum, grabatto, grabattis
+hortulanus	y	hortulanus	NOMcom	, i, m.		Cf. Hortulanus, a, um		1	hortulanus
+hymnus	y	hymnus	NOMcom	, i, m.				3	hymnis, hymno
+paracletus	y	paracletus	NOMcom	, i, m.			paraclitus	4	paracletum, paracletus
+paradisus	y	paradisus	NOMcom	, i, m.				3	paradisum, paradiso
+psalmus	y	psalmus	NOMcom	, i, m.				6	psalmo, Psalmorum, psalmis, psalmum
+pseudoapostolus	y	pseudapostolus	NOMcom	, i, m.			pseudoapostolus	1	pseudoapostoli
+pseudochristus	y	pseudochristus	NOMcom	, i, m.				2	pseudochristi
+quadrum	y	quadrus	NOMcom	, i, m.				1	quadro
+regulus	y	regulus	NOMcom	, i, m.				2	regulus
+sardinus	y	sardius	NOMcom	, i, m.	12	In Forc. Info in Kirch. Wort		2	sardinus, sardini
+thronus	y	thronus	NOMcom	, i, m.			thronos	35	thronos, throno, thronum, thronus, throni
+umerus	y	humerus	NOMcom	, i, m.			umerus	2	umeros
+agnos	y	agnos	NOMcom	, i, m./f.				1	agnum
+aeramentum	y	aeramentum	NOMcom	, i, n.				2	aeramentorum, aeramento
+assumentum	y	assumentum	NOMcom	, i, n.			adsumentum	1	adsumentum
+augmentum	y	augmentum	NOMcom	, i, n.				2	augmentum
+baptismum	y	baptismum	NOMcom	, i, n.				12	baptismum, baptismo
+byssinum	y	byssinum	NOMcom	, i, n.		Cf. Byssinus		4	byssino, byssinum
+byssum	y	byssus	NOMcom	, i, n.		Var. byssum, i., n. in Blaise		1	bysso
+calcaneum	y	calcaneum	NOMcom	, i, n.				1	calcaneum
+centuplum	y	centuplum	NOMcom	, i, n.		Cf. Centuplus, a, um		1	centuplum
+cinnamomum	y	cinnamomum	NOMcom	, i, n.				1	cinnamomum
+cristallus	y	crystallum	NOMcom	, i, n.				3	cristallum, cristallo
+faenum	y	fenum	NOMcom	, i, n.			faenum/foenum	8	faenum
+figmentum	y	figmentum	NOMcom	, i, n.				1	figmentum
+habitaculum	y	habitaculum	NOMcom	, i, n.				2	habitaculo, habitaculum
+hysopum	y	hysopum	NOMcom	, i, n.				1	hysopo
+odoramentum	y	odoramentum	NOMcom	, i, n.				2	odoramentorum
+pinnaculum	y	pinnaculum	NOMcom	, i, n.				1	pinnaculum
+satum	y	satum	NOMcom	, i, n.				2	sata, satis
+scabillum	y	scabellum	NOMcom	, i, n.			scabillum	6	scabillum
+scandalum	y	scandalum	NOMcom	, i, n.				13	scandalis, scandalum, scandala, scandali
+sericum	y	sericum	NOMcom	, i, n.				1	serici
+signaculum	y	signaculum	NOMcom	, i, n.				7	signaculis, signacula, signaculum
+testimentum	y	testamentum	NOMcom	, i, n.				1	testamenta
+uentilabrum	y	uentilabrum	NOMcom	, i, n.				2	uentilabrum
+blasphemia	y	blasphemia	NOMcom	, iae, f.				16	blasphemiam, blasphemias, blasphemia, blasphemiae
+peccatrix	y	peccatrix	NOMcom	, icis, f.				3	peccatrice, peccatrix
+fornicarius	y	fornicarius	NOMcom	, ii, m				3	fornicarii, fornicariis
+scorpios	y	scorpios	NOMcom	, ii, m		cf. scorpio, onis		1	scorpii
+seminiuerbius	y	seminiuerbius	NOMcom	, ii, m	12			1	seminiuerbius
+topazius	y	topazius2	NOMcom	, ii, m				1	topazius
+lanciarius	y	lanciarius	NOMcom	, ii, m.			lancearius	1	lancearios
+mercennarius	y	mercenarius	NOMcom	, ii, m.		In Mercenarius, a, um		6	mercennarius, mercennariis, mercennarii
+altarium	y	altarium	NOMcom	, ii, n.				3	altaria, altario
+bracchium	y	brachium	NOMcom	, ii, n.			bracchium	3	brachio, brachium
+brauium	y	brabeum	NOMcom	, ii, n.			brabium/bravium	2	brauium
+cellarium	y	cellarium	NOMcom	, ii, n.				1	cellarium
+daemonium	y	daemonium	NOMcom	, ii, n.				66	daemonia, daemoniorum, daemonium, daemonio, daemoniis
+euangelium	y	euangelium	NOMcom	, ii, n.				70	euangelium, euangelio, euangelii
+gazophylacium	y	gazophylacium	NOMcom	, ii, n.				5	gazofilacium, gazofilacio
+improperium	y	improperium	NOMcom	, ii, n.			inproperium	1	inproperia
+labium	y	labium	NOMcom	, ii, n.				4	labiis
+multiloquium	y	multiloquium	NOMcom	, ii, n.				1	multiloquio
+phylacterium	y	phylacterium	NOMcom	, ii, n.				1	phylacteria
+praesepium	y	praesaepium	NOMcom	, ii, n.			praesepium	4	praesepio
+refrigerium	y	refrigerium	NOMcom	, ii, n.				1	refrigerii
+sandalium	y	sandalium	NOMcom	, ii, n.				1	sandaliis
+semicintium	y	semicinctium	NOMcom	, ii, n.			semicintium	1	semicintia
+sterquilinium	y	sterquilinium	NOMcom	, ii, n.			sterquilinum	1	sterquilinium
+teloneum	y	teloneum	NOMcom	, ii, n.			telonium	3	teloneo, teloneum
+erugo	y	aerugo	NOMcom	, inis, f.				2	erugo
+harundo	y	arundo	NOMcom	, inis, f.				9	harundine, harundini, harundinem
+pinguido	y	pinguido	NOMcom	, inis, f.			pinguido	1	pinguidinis
+plenitudo	y	plenitudo	NOMcom	, inis, f.				15	plenitudine, plenitudinem, plenitudinis, plenitudo
+genimen	y	genimen	NOMcom	, inis, n.				4	genimine, genimina
+linteamen	y	linteamen	NOMcom	, inis, n.				4	linteamina, linteaminibus
+hypocrisis	y	hypocrisis	NOMcom	, is uel eos, f.				2	hypocrisi, hypocrisis
+apocalypsis	y	apocalypsis	NOMcom	, is, f.				2	apocalypsin, apocalypsis
+extasis	y	extasis	NOMcom	, is, f.		Cf. ecstasis		1	extasi
+ualles	y	uallis	NOMcom	, is, f.			ualles	1	uallis
+contribulis	y	contribulis	NOMcom	, is, m.				1	contribulibus
+poderes	y	poderes	NOMcom	, is, m.			poderis	1	podere
+luminarium	y	luminare	NOMcom	, is, n.				1	luminaria
+reptile	y	reptile	NOMcom	, is, n.				1	reptilia
+salutare	y	salutare	NOMcom	, is, n.	3			3	salutare
+magnalia	y	magnalia	NOMcom	, ium, n. plur.				1	magnalia
+sardonix	y	sardonyx	NOMcom	, nychis, m.			sardonix	1	sardonix
+abominatio	y	abominatio	NOMcom	, onis, f.	3			6	abominatio, abominationum, abominationem
+adquisitio	y	acquisitio	NOMcom	, onis, f.	3		adcquisitio	1	adquisitionem
+afflictio	y	afflictio	NOMcom	, onis, f.	3			1	adflictionem
+agnitio	y	agnitio	NOMcom	, onis, f.	3		adgnitio	4	agnitionem, agnitione
+apertio	y	apertio	NOMcom	, onis, f.	3			1	apertione
+assumptio	y	assumptio	NOMcom	, onis, f.	3		adsumptio	2	adsumptio, adsumptionis
+benedictio	y	benedictio	NOMcom	, onis, f.	3			13	benedictionem, benedictione, benedictionibus, benedictionis, benedictiones, benedictio
+circumcisio	y	circumcisio	NOMcom	, onis, f.	3			27	circumcisionem, circumcisio, circumcisione, circumcisionis
+comesatio	y	comissatio	NOMcom	, onis, f.	3		comessatio/comesatio	2	comesationes, comesationibus
+commoratio	y	commoratio	NOMcom	, onis, f.	3			1	commoratio
+compunctio	y	compunctio	NOMcom	, onis, f.	3			1	conpunctionis
+concisio	y	concisio	NOMcom	, onis, f.	3			1	concisionem
+consparsio	y	conspersio	NOMcom	, onis, f.	3		consparsio	1	consparsio
+contaminatio	y	contaminatio	NOMcom	, onis, f.	3			1	contaminationibus
+contritio	y	contritio	NOMcom	, onis, f.	3			1	contritio
+deceptio	y	deceptio	NOMcom	, onis, f.	3			1	deceptio
+delibatio	y	delibatio	NOMcom	, onis, f.	3			1	delibatio
+desolatio	y	desolatio	NOMcom	, onis, f.	3			3	desolatio, desolationis
+destructio	y	destructio	NOMcom	, onis, f.	3			3	destructionem
+dilectio	y	dilectio	NOMcom	, onis, f.	3			17	dilectionis, dilectionem, dilectione, dilectio
+discretio	y	discretio	NOMcom	, onis, f.	3			1	discretio
+dispersio	y	dispersio	NOMcom	, onis, f.	3			1	dispersionem
+dormitio	y	dormitio	NOMcom	, onis, f.	3			1	dormitione
+emundatio	y	emundatio	NOMcom	, onis, f.	3			2	emundatione
+expletio	y	expletio	NOMcom	, onis, f.	3			1	expletionem
+fractio	y	fractio	NOMcom	, onis, f.	3			2	fractionis, fractione
+generatio	y	generatio	NOMcom	, onis, f.	3			40	generationes, generationis, generatione, generationibus, generationi, generationem, generatio
+gloriatio	y	gloriatio	NOMcom	, onis, f.	3			4	gloriatio
+ieiunatio	y	ieiunatio	NOMcom	, onis, f.	3			2	ieiunatio, ieiunationibus
+illuminatio	y	illuminatio	NOMcom	, onis, f.	3		inluminatio	2	inluminationem, inluminatio
+illustratio	y	illustratio	NOMcom	, onis, f.	3		inlustratio	1	inlustratione
+impositio	y	impositio	NOMcom	, onis, f.	3		inpositio	1	inpositionem
+incorruptio	y	incorruptio	NOMcom	, onis, f.	3			3	incorruptionem, incorruptione
+inspiratio	y	inspiratio	NOMcom	, onis, f.	3			1	inspirationem
+iustificatio	y	iustificatio	NOMcom	, onis, f.	3			7	iustificationibus, iustificationes, iustificatio, iustificationem
+legislatio	y	legislatio	NOMcom	, onis, f.	3			1	legislatio
+manifestatio	y	manifestatio	NOMcom	, onis, f.	3		manufestatio	2	manifestatio, manifestatione
+mansio	y	mansio	NOMcom	, onis, f.	3			2	mansiones
+mortificatio	y	mortificatio	NOMcom	, onis, f.	3			1	mortificationem
+oblatio	y	oblatio	NOMcom	, onis, f.	3			5	oblationes, oblatio, oblationem
+obligatio	y	obligatio	NOMcom	, onis, f.	3			1	obligatione
+oboeditio	y	obeditio	NOMcom	, onis, f.	3		oboeditio	3	oboeditionis, oboeditionem
+opitulatio	y	opitulatio	NOMcom	, onis, f.	3			1	opitulationes
+ostensio	y	ostensio	NOMcom	, onis, f.	3			5	ostensione, ostensionis, ostensionem
+participatio	y	participatio	NOMcom	, onis, f.	3			2	participatio
+passio	y	passio	NOMcom	, onis, f.	3			11	passiones, passionibus, passionum, passionem, passione
+perditio	y	perditio	NOMcom	, onis, f.	3			7	perditio, perditionem, perditionis
+persecutio	y	persecutio	NOMcom	, onis, f.	3			13	persecutione, persecutionibus, persecutionem, persecutio
+plantatio	y	plantatio	NOMcom	, onis, f.	3			1	plantatio
+praefinitio	y	praefinitio	NOMcom	, onis, f.	3			1	praefinitionem
+prophetatio	y	prophetatio	NOMcom	, onis, f.	3			1	prophetatio
+propitiatio	y	propitiatio	NOMcom	, onis, f.	3			1	propitiationem
+prostitutio	y	prostitutio	NOMcom	, onis, f.	3			2	prostitutione, prostitutionis
+purificatio	y	purificatio	NOMcom	, onis, f.	3			3	purificatione, purificationem, purificationis
+redargutio	y	redargutio	NOMcom	, onis, f.	3			1	redargutionem
+regeneratio	y	regeneratio	NOMcom	, onis, f.	3			2	regeneratione, regenerationis
+renouatio	y	renouatio	NOMcom	, onis, f.	3			1	renouationis
+requietio	y	requietio	NOMcom	, onis, f.	3			1	requietionis
+resolutio	y	resolutio	NOMcom	, onis, f.	3			1	resolutionis
+resurrectio	y	resurrectio	NOMcom	, onis, f.	3			37	resurrectionem, resurrectione, resurrectionis, resurrectio
+retributio	y	retributio	NOMcom	, onis, f.	3			3	retributionis, retributionem, retributio
+reuelatio	y	reuelatio	NOMcom	, onis, f.	3			12	reuelatione, reuelationis, reuelationem, reuelationes, reuelationum
+sanctificatio	y	sanctificatio	NOMcom	, onis, f.	3			9	sanctificatio, sanctificatione, sanctificationis, sanctificationem
+sindon	y	sindon	NOMcom	, onis, f.	3			6	sindonem, sindone
+subministratio	y	subministratio	NOMcom	, onis, f.	3		sumministratio	1	subministrationis
+superscriptio	y	superscriptio	NOMcom	, onis, f.	3		superscribtio	1	superscriptio
+suprascriptio	y	suprascriptio	NOMcom	, onis, f.	3			1	suprascriptio
+sustentatio	y	sustentatio	NOMcom	, onis, f.	3			1	sustentatione
+susurratio	y	susurratio	NOMcom	, onis, f.	3			1	susurrationes
+transmigratio	y	transmigratio	NOMcom	, onis, f.	13			4	transmigratione, transmigrationem
+tribulatio	y	tribulatio	NOMcom	, onis, f.	13			41	tribulationi, tribulatio, tribulationis, tribulationem, tribulatione, tribulationibus, tribulationes
+turbatio	y	turbatio	NOMcom	, onis, f.	13			2	turbatio
+uisio	y	uisio2	NOMcom	, onis, f.	13			13	uisionis, uisioni, uisionem, uisione, uisiones, uisio
+artemon	y	artemo	NOMcom	, onis, m.	3		artemon	1	artemone
+quaternio	y	quaternio	NOMcom	, onis, m.	3			1	quaternionibus
+acceptor	y	acceptor	NOMcom	, oris, m.	3		adceptor	1	acceptor
+adnuntiator	y	annunciator	NOMcom	, oris, m.	3		adnunciator/adnuntiator/annuncitator	1	adnuntiator
+adorator	y	adorator	NOMcom	, oris, m.	3			1	adoratores
+concubitor	y	concubitor	NOMcom	, oris, m.	3			1	concubitores
+cooperator	y	cooperator	NOMcom	, oris, m.	3			2	cooperatores, cooperatorem
+deuorator	y	deuorator	NOMcom	, oris, m.	3			1	deuorator
+eruditor	y	eruditor	NOMcom	, oris, m.	3			1	eruditorem
+exterminator	y	exterminator	NOMcom	, oris, m.	3			1	exterminatore
+faenerator	y	fenerator	NOMcom	, oris, m.	3		faenerator/foenerator	1	feneratori
+fornicator	y	fornicator	NOMcom	, oris, m.	3			3	fornicatoribus, fornicator
+mediator	y	mediator	NOMcom	, oris, m.	3			2	mediatoris, mediator
+peccator	y	peccator	NOMcom	, oris, m.	3			38	peccatorem, peccator, peccatori, peccatoribus, peccatores, peccatore, peccatorum
+potator	y	potator	NOMcom	, oris, m.	3			1	potator
+praecessor	y	praecessor	NOMcom	, oris, m.	3	Cf. Praedessor	precessor	1	praecessor
+saluator	y	saluator	NOMcom	, oris, m.	3			9	saluatore, saluatoris, saluatorem, saluator
+seductor	y	seductor	NOMcom	, oris, m.	3			3	seductor, seductores
+umor	y	humor	NOMcom	, oris, m.	13		umor	1	humorem
+encenium	y	encaenia	NOMcom	, orum, n. plur.			encenium/encaenium/encennium	1	encenia
+zizania	y	zizania2	NOMcom	, orum, n. plur.		Cf. Zizania1, ae, f		8	zizania, zizaniorum
+coniunx	y	coniux	NOMcom	, ugis, f.				2	coniugem
+sulphur	y	sulfur	NOMcom	, ŭris, n.			sulphur/sulpur	7	sulphur, sulphure, sulphuris
+accubitus	y	accubitus	NOMcom	, us, m.			adcubitus	1	accubitus
+apostolatus	y	apostolatus	NOMcom	, us, m.				3	apostolatum, apostolatus
+bimatus	y	bimatus2	NOMcom	, us, m.				1	bimatu
+discubitus	y	discubitus	NOMcom	, us, m.				2	discubitus
+ducatus	y	ducatus	NOMcom	, us, m.				1	ducatum
+dupondius	y	dipondius	NOMcom	, us, m.			dupondius	1	dipundio
+episcopatus	y	episcopatus	NOMcom	, us, m.				1	episcopatum
+primatus	y	primatus	NOMcom	, us, m.				1	primatum
+recubitus	y	recubitus	NOMcom	, us, m.				1	recubitus
+terraemotus	y	terraemotus	NOMcom	, us, m.		terrae motus, us, m		13	terraemotus, terraemotu
+clamys	y	chlamys	NOMcom	, ydis, f.				2	clamydem
+martyr	y	martyr	NOMcom	, yris, comm.				1	martyrum
+omega	y	omega	NOMcom	(Indecl)				3	Omega
+rabboni	y	rabboni	NOMcom	(Indecl) m.				2	rabboni
+manna	y	manna2	NOMcom	(Indecl) n.				4	manna
+rabbi	y	rabbi	NOMcom	(Indecl) n.				15	rabbi
+iota	y	iota	NOMcom	(Indecl), n.				1	iota
+uilicus	y	uillicus2	NOMcom	i, m.			uilicus	3	uilicum, uilicus
+sinapi	y	sinapi	NOMcom	n. indecl.				5	sinapis
+domi	y	domus	NOMcom			Locatif !		5	domi
+dragma	y	drachma	NOMcom					3	dragmam, dragmas
+intellegentia	y	intelligentia	NOMcom				intellegentia	1	intellegentias
+subiugale	Probl.	subiugalis	NOMcom					1	subiugalis
+uolatile	y	uolatilis	NOMcom				uolatile	3	uolatilia
+adulescens	var		NOMcom, ADJqua	-> adolescens1 (NOMcom), -> adolescens2 (ADJqua)				14	adulescens, adulescentis, adulescentem, adulescentes, adulescentior
+oriens	y	Oriens	NOMpro	, entis, m.				7	oriente
+berillus	y	Beryllus	NOMpro	, i, m.				1	berillus
+idolium	y	idoleum	NOMpro	, ii, n.			idolium	1	idolio
+Appolo	y	Apollo	NOMpro					10	Apollo
+prope	y	prope2	PRE					1	propior
+condelector	y	condelector	VER	, aris, ari		Dep.		1	condelector
+principor	y	principor	VER	, aris, ari		Dep.		1	principari
+supercerto	y	supercetor	VER	, aris, ari		Dep.		1	supercertari
+aporior	y	aporior	VER	, aris, atum sum, ari		Dep.		1	aporiamur
+congratulor	y	congratulor	VER	, aris, atus sum, ari		Dep.		5	congratulamini, congratulor, congratulabantur
+cooperor	y	cooperor	VER	, aris, atus sum, ari		Dep.		3	cooperanti, cooperante, cooperantur
+fornicor	y	fornicor	VER	, aris, atus sum, ari		Dep.		8	fornicatur, fornicari, fornicemur, fornicati
+inoperor	y	inoperor	VER	, aris, atus sum, ari		Dep.		2	inoperantur
+pigritor	y	pigritor	VER	, aris, atus sum, ari				1	pigriteris
+superlucror	y	superlucror	VER	, āris, ătus sum, ari, dep				1	superlucratus
+protestor	y	protestor	VER	, aris, atus, ari		Dep.		2	protestatur, protestatus
+iucundo	y	iucundo	VER	, as, are				1	iucundabuntur
+iudaizo	y	iudaizo	VER	, as, are			judaidio	1	iudaizare
+redaedifico	y	reaedifico	VER	, as, are			redaedifico	2	reaedificabo, reaedificat
+adaquo	y	adaquo	VER	, as, aui, atum, are				1	adaquare
+adnauigo	y	annauigo	VER	, as, aui, atum, are			adnavigo	1	adnauigauimus
+adnumero	y	annumero	VER	, as, aui, atum, are			adnumero	1	adnumeratus
+adnuntio	y	annuncio	VER	, as, aui, atum, are			adnuncio/adnuntio	40	adnuntiatum, adnuntians, adnuntiant, adnuntiatis, adnuntiauerunt, adnuntiabat, adnuntiamus, adnuntiante, adnuntiabit, adnuntiarem, adnuntiabo, adnuntio, adnuntiaturus, adnuntia, adnuntiantes, adnuntiatur, adnuntietur, adnuntiarent, adnuntiat, adnuntiabam
+alleuio	y	alleuio	VER	, as, aui, atum, are			adleuio	1	adleuiabant
+amarico	y	amarico	VER	, as, aui, atum, are			amethystus/amethistus	2	amaricare, amaricatus
+anathematizo	y	anathematizo	VER	, as, aui, atum, are				1	anathematizare
+angario	y	angario	VER	, as, aui, atum, are				3	angariauerunt, angariauerit
+angustio	y	angustio	VER	, as, aui, atum, are				3	angustiamur, angustiamini
+appretio	y	apprecio	VER	, as, aui, atum, are			appretio/adpretio	2	adpretiauerunt, adpretiati
+appropio	y	approprio	VER	, as, aui, atum, are			adproprio	4	adpropiauit, adpropiet, adpropiat, adpropians
+blasphemo	y	blasphemo	VER	, as, aui, atum, are				28	blasphemauerint, blasphemabant, blasphemas, blasphematur, blasphemantibus, blasphemauit, blasphemant, blasphemauerunt, blasphemantes, blasphemetur, blasphemor, blasphemabat, blasphemauerit, blasphemaris, blasphemare, blasphemat, blasphemamur
+breuio	y	breuio	VER	, as, aui, atum, are				6	breuiabuntur, breuians, breuiatum, breuiati, breuiasset, breuiauit
+calceatus	y	calceo	VER	, as, aui, atum, are			calcio	2	calciati, calciatos
+calcio	y	calceo	VER	, as, aui, atum, are			calcio	1	calcia
+calumnio	y	calumnio	VER	, as, aui, atum, are				2	calumniantibus
+captiuo	y	captiuo	VER	, as, aui, atum, are				1	captiuantem
+catecizo	y	catechisso	VER	, as, aui, atum, are			catechizo/catecizo	2	catecizatur, catecizat
+cibo	y	cibo	VER	, as, aui, atum, are				1	ciba
+citharizo	y	citharizo	VER	, as, aui, atum, are				2	citharizatur, citharizantium
+clarifico	y	clarifico	VER	, as, aui, atum, are				21	clarifica, clarificaturus, clarificaui, clarificabant, clarificabo, clarificabit, clarificet, clarificatus, clarificetur
+coagito	y	coagito	VER	, as, aui, atum, are				1	coagitatam
+cognomino	y	cognomino	VER	, as, aui, atum, are				15	cognominaris, cognominarentur, cognominatus, cognominatur, cognominauit
+colaphizo	y	colaphizo	VER	, as, aui, atum, are				1	colaphizet
+collaboro	y	collaboro	VER	, as, aui, atum, are			conlaboro	1	conlaborantes
+commanduco	y	commanduco	VER	, as, aui, atum, are				1	conmanducauerunt
+complanto	y	complanto	VER	, as, aui, atum, are				1	conplantati
+complexo	y	complexo	VER	, as, aui, atum, are				1	conplexans
+configuro	y	configuro	VER	, as, aui, atum, are				1	configuratus
+conforto	y	conforto	VER	, as, aui, atum, are				9	confortabatur, confortans, confortauit, confortatus, confortat, confortamini
+conglorifico	y	conglorifico	VER	, as, aui, atum, are				1	conglorificemur
+connumero	y	connumero	VER	, as, aui, atum, are				1	connumeratus
+contenebro	y	contenebro	VER	, as, aui, atum, are				1	contenebrabitur
+contristor	y	constristo	VER	, as, aui, atum, are		1. verdüstern, betrüben. 2. pass. traurig werden. 		1	contristabimini
+conuiuifico	y	conuiuifico	VER	, as, aui, atum, are				2	conuiuificauit
+corresuscito	y	corresuscito	VER	, as, aui, atum, are			conresuscito	1	conresuscitauit
+cribro	y	cribro	VER	, as, aui, atum, are				1	cribraret
+deauro	y	deauro	VER	, as, aui, atum, are				1	deaurata
+decaluo	y	decaluo	VER	, as, aui, atum, are				2	decaluari, decaluetur
+demento	y	demento	VER	, as, aui, atum, are				1	dementasset
+desiderans	y	desidero	VER	, as, aui, atum, are				1	desiderantissimi
+desponsor	y	desponso	VER	, as, aui, atum, are				3	desponsatam, desponsata
+deturpo	y	deturpo	VER	, as, aui, atum, are				2	deturpat
+deuasto	y	deuasto	VER	, as, aui, atum, are				1	deuastabat
+euacuo	y	euacuo	VER	, as, aui, atum, are				16	euacuaui, euacuatur, euacuati, euacuet, euacuatum, euacuauerit, euacuabitur, euacuans, euacuabit, euacuetur, euacuabuntur, euacuandam
+euagino	y	euagino	VER	, as, aui, atum, are				1	euaginato
+euangelizo	y	euangelizo	VER	, as, aui, atum, are				39	euangelizanti, euangelizauero, euangelizans, euangelizante, euangelizabant, euangelizantur, euangelizassent, euangelizauit, euangelizet, euangelizo, euangelizantium, euangelizauimus, euangelizarem, euangelizare, euangelizauerit, euangelizatur, euangelizatum, euangelizaui, euangelizat, euangelizabat, euangelizaret, euangelizantes
+exalto	y	exalto	VER	, as, aui, atum, are				19	exaltauit, exaltari, exaltaueritis, exaltat, exaltabitur, exaltauerit, exaltemini, exaltata, exaltaberis, exaltatus
+faeneror	y	fenero	VER	, as, aui, atum, are			faenero/foenero	1	fenerantur
+fermento	y	fermento	VER	, as, aui, atum, are				2	fermentatum, fermentaretur
+fructifico	y	fructifico	VER	, as, aui, atum, are				5	fructificant, fructificaremus, fructificat, fructificarent
+fumigo	y	fumigo	VER	, as, aui, atum, are				1	fumigans
+glorifico	y	glorifico	VER	, as, aui, atum, are				21	glorifico, glorificabant, glorificatum, glorificauit, glorificat, glorificetur, glorificate, glorificantes, glorificabat, glorificent, glorificatus, glorificauerunt, glorificari
+honorifico	y	honorifico	VER	, as, aui, atum, are				11	honorificentur, honorificabo, honorifico, honorificarent, honorificetis, honorificent, honorificabit, honorificant, honorificat
+humilio	y	humilio	VER	, as, aui, atum, are				12	humiliabitur, humiliat, humiliauit, humilians, humiliari, humiliauerit, humiliet
+ieiuno	y	ieiuno	VER	, as, aui, atum, are		Part. ieiunus		20	ieiunas, ieiunantes, ieiunant, ieiunans, ieiunantibus, ieiunasset, ieiunatis, ieiunamus, ieiunabunt, ieiunare, ieiuno
+incrasso	y	incrasso	VER	, as, aui, atum, are				1	incrassatum
+inhonoro	y	inhonoro	VER	, as, aui, atum, are				2	inhonoras, inhonoratis
+insufflo	y	insufflo	VER	, as, aui, atum, are				1	insuflauit
+iustifico	y	iustifico	VER	, as, aui, atum, are				32	iustificemur, iustificari, iustificamini, iustificauerunt, iustificati, iustificans, iustificauit, iustificare, iustificatis, iustificeris, iustificatur, iustificabuntur, iustificabit, iustificaberis, iustificatus, iustificat, iustificabitur, iustificata
+justifico	y	iustifico	VER	, as, aui, atum, are				1	iustificati
+lacrimor	y	lacrimo	VER	, as, aui, atum, are			lacrumo	1	lacrimatus
+lamento	y	lamento	VER	, as, aui, atum, are				3	lamentabant, lamentauimus
+manico	y	manico	VER	, as, aui, atum, are				1	manicabat
+mino	y	mino	VER	, as, aui, atum, are				1	minauit
+minoro	y	minoro	VER	, as, aui, atum, are				1	minorauit
+mortifico	y	mortifico	VER	, as, aui, atum, are				4	mortificatis, mortificamur, mortificati
+obuio	y	obuio	VER	, as, aui, atum, are				2	obuiauit, obuiare
+pacificor	y	pacifico	VER	, as, aui, atum, are				1	pacificans
+pastino	y	pastino	VER	, as, aui, atum, are				1	pastinauit
+permundo	y	permundo	VER	, as, aui, atum, are				1	permundabit
+potiono	y	potiono	VER	, as, aui, atum, are				1	potionauit
+praedestino	y	praedestino	VER	, as, aui, atum, are				6	praedestinauit, praedestinati, praedestinatus
+praeordino	y	praeordino	VER	, as, aui, atum, are				3	praeordinati, praeordinauit, praeordinatis
+prophetizo	y	prophetizo	VER	, as, aui, atum, are				3	prophetiza
+propheto	y	propheto	VER	, as, aui, atum, are				24	prophetare, prophetans, prophetetis, prophetauimus, prophetantes, prophetauit, prophetabunt, prophetamus, prophetauerunt, prophetat, prophetent, prophetabant
+purifico	y	purifico	VER	, as, aui, atum, are				4	purificans, purificatus, purificauit, purificatum
+radico	y	radico	VER	, as, aui, atum, are				2	radicati
+reinuito	y	reinuito	VER	, as, aui, atum, are				1	reinuitent
+reprobo	y	reprobo	VER	, as, aui, atum, are				8	reprobatus, reprobabo, reprobari, reprobauerunt
+resuscito	y	resuscito	VER	, as, aui, atum, are				7	resuscitauit, resuscitans, resuscitet, resuscitabo, resuscitem
+saluifico	y	saluifico	VER	, as, aui, atum, are	1			2	saluificem, saluifica
+saluo	y	saluo	VER	, as, aui, atum, are				15	saluabitur, saluare, saluans, saluamini, saluauit, saluati, saluantur, saluaret, saluari, saluetur, salua
+sanctifico	y	sanctifico	VER	, as, aui, atum, are				20	sanctificati, sanctificetur, sanctificata, sanctificaret, sanctificarent, sanctificauit, sanctifica, sanctifico, sanctificet, sanctificatus, sanctificatis, sanctificans, sanctificat
+scandalizo	y	scandalizo	VER	, as, aui, atum, are				29	scandalizabor, scandalizabantur, scandalizati, scandalizet, scandalizabuntur, scandalizem, scandalizemini, scandalizauerit, scandalizantur, scandalizabimini, scandalizatur, scandalizatus, scandalizat, scandalizemus
+secto	y	secto	VER	, as, aui, atum, are				2	sectabantur, sectantes
+spicatus	y	spico	VER	, as, aui, atum, are	51		spicatus	1	spicati
+subintro	y	subintro	VER	, as, aui, atum, are				1	subintrauit
+subnauigo	y	subnauigo	VER	, as, aui, atum, are				1	subnauigauimus
+succlamo	y	succlamo	VER	, as, aui, atum, are			subclamo	1	succlamabant
+superabundo	y	superabundo	VER	, as, aui, atum, are				3	superabundauit, superabundo
+superaedifico	y	superaedifico	VER	, as, aui, atum, are				6	superaedificat, superaedificet, superaedificauit, superaedificati
+supererogo	y	supererogo	VER	, as, aui, atum, are				1	supererogaueris
+superordino	y	superordino	VER	, as, aui, atum, are				1	superordinat
+supersemino	y	supersemino	VER	, as, aui, atum, are				1	superseminauit
+tempto	y	tento	VER	, as, aui, atum, are			tempto	34	temptari, temptemini, temptabant, temptabis, temptantes, temptat, temptate, temptemus, temptare, temptans, temptabatur, temptauerit, temptet, temptauit, temptaretur, temptauerunt, temptasti, temptatis, temptabat
+thesaurizo	y	thesaurizo	VER	, as, aui, atum, are				6	thesaurizat, thesaurizas, thesaurizate, thesaurizastis, thesaurizare
+transfreto	y	transfreto	VER	, as, aui, atum, are				5	transfretauit, transfretantem, transfretassent, transfretemus
+transnauigo	y	transnauigo	VER	, as, aui, atum, are			tranavigo	1	transnauigare
+transplanto	y	transplanto	VER	, as, aui, atum, are				1	transplantare
+trituro	y	trituro	VER	, as, aui, atum, are				2	triturat, trituranti
+uilico	y	uillico	VER	, as, aui, atum, are			uilico	1	uilicare
+uindemio	y	uindemio	VER	, as, aui, atum, are				3	uindemiant, uindemia, uindemiauit
+uiuifico	y	uiuifico	VER	, as, aui, atum, are				12	uiuificabit, uiuificare, uiuificat, uiuificabuntur, uiuificarentur, uiuificantem, uiuificatur
+zelo	y	zelo	VER	, as, aui, atum, are				1	zelantes
+subditus	y	subdo	VER	, dis, dĭdi, dĭtum, dere, a.			subditus	9	subditi, subditus, subdita, subditos, subditae
+odio	y	odi	VER	, disti, disse				1	odient
+subintroduco	y	subintroduco	VER	, dūcis, ductum, dūcere, a. 3				1	subintroductos
+superinduo	y	superinduo	VER	, dŭis, dŭi, dūtum, dŭere, a.				1	superindui
+benedictus	y	benedico	VER	, eis, xi, ctum, cere		bene dico		16	benedictum, benedictus, benedicti, benedicta
+beneplaceo	y	beneplaceo	VER	, es, cui, citum, cere				2	beneplacitum, beneplacuerit
+circumfulgeo	y	circumfulgeo	VER	, es, ere				4	circumfulsit, circumfulsisse
+congaudeo	y	congaudeo	VER	, es, ere, audi, auisus				2	congaudet, congaudent
+adimpleo	y	adimpleo	VER	, es, evi, etum, ere				16	adimplebitis, adimpleretur, adimpletur, adimpleo, adimpletum, adimpleuit, adimpleta, adimpleatur, adimplere, adimpleantur
+adquiesco	y	acquiesco	VER	, escis, eui, etum, escere			adquiesco	1	adquieui
+ualefacio	y	ualefacio	VER	, făcis, fēci, factum, făcere, et				4	ualefaciens, ualefecissemus
+abstergo	y	abstergo	VER	, gis, si, sum, gĕre				1	absterget
+crucifigo	y	crucifigo	VER	, gis, xi, xum, gere				49	crucifigam, crucifigere, crucifixistis, crucifixum, crucifigetis, crucifigeretur, crucifixerunt, crucifigi, crucifigentes, crucifigerent, crucifigunt, crucifigite, crucifige, crucifixi, crucifixissent, crucifigatur, crucifigendum, crucifixus
+reemo	y	redimo	VER	, imis, emi, emptu, uel emtum, imere			reemo	1	redemisti
+ingemesco	y	ingemisco	VER	, is, ere			ingemesco	4	ingemescimus, ingemescit, ingemescens
+inoboediens	y	inobedio	VER	, is, ere			inoboedio	1	inoboedientes
+supereffluo	y	supereffluo	VER	, is, ere				1	supereffluentem
+ueteresco	y	ueterasco	VER	, is, ere			ueteresco	1	ueterescunt
+neglego	y	negligo	VER	, is, exi (rarum legi), lectum, legere			neglego/neclego	1	neglexerunt
+conrumpo	y	corrumpo	VER	, is, i, tum, ere			conrumpo	1	corrupit
+superuestio	y	superuestio	VER	, is, ītum, ire	4			1	superuestiri
+rugio	y	rugio	VER	, is, iui uel ii, ire	4			1	rugit
+consepelio	y	consepelio	VER	, is, iui uel ii, itum, ire	4			1	consepulti
+dispertior	y	dispertio	VER	, is, iui uel ii, itum, ire	4		dispartio	3	dispertiatur, dispertitae, dispertitus
+gluttio	y	glutio	VER	, is, iui uel ii, itum, ire	4		gluttio	1	gluttientes
+ignio	y	ignio	VER	, is, iui uel ii, itum, ire	4			1	ignitum
+pertranseo	y	pertranseo	VER	, is, iui uel ii, itum, ire	4			12	pertransiebant, pertransiuit, pertransissent, pertranseuntes, pertransibo, pertransiit, pertransiero, pertransiens, pertransiet, pertransiret, pertransirent
+subintroeo	y	subintroeo	VER	, is, iui uel ii, itum, ire	4			2	subintroierunt
+oboedio	y	obedio	VER	, is, iui, itum, ire	4		oboedio/obaudio	25	oboediebat, oboediret, oboediens, oboedite, oboeditis, oboedientes, oboedistis, oboedientibus, oboediendum, oboedierunt, oboedit, oboediatis, oboediunt, oboedire
+praescio	y	praescio	VER	, is, iui, itum, ire	4			3	praesciit, praesciuit, praescientes
+meminisse	y	memini	VER	, isti, isee		Defect.		1	mementote
+adnuo	y	annuo	VER	, nuis, nui vel nuui, nutum, nuere			adnuo	4	annuente, annuens, annuerunt, annuit
+compatior	y	compatior	VER	, pateris, passus sum, pati		Dep.	conpatior	3	conpatiuntur, conpassi, conpatimur
+saepelio	y	sepelio	VER	, pelis, peliui uel pelii, pultum, pelire	4		saepelio	1	sepelierunt
+superimpendo	y	superimpendo	VER	, pendis, pensum, pendere, a.			superinpendo	1	superinpendar
+obstipesco	y	obstupesco	VER	, pescis, pui, pescere			obstipesco	4	obstipuerunt
+refloresco	y	refloresco	VER	, rescis, rui, rescere				1	refloruistis
+requaero	y	requiro	VER	, ris, siui uel sii, situm, rere			requaero	1	requisisset
+sallio	y	salio	VER	, salis, saliui uel salii, salitum, salire	4	salsum	sallio	3	sallietur
+conscindo	y	conscindo	VER	, scindis, scidi, scissum, ere				1	conscissis
+disseco	y	disseco	VER	, secas, secui, sectum, secare			dissico	2	dissecabantur
+superextendo	y	superextendo	VER	, tendis, tendi, tendere, a. 3.				1	superextendimus
+extergo	y	extergo	VER	, terges, tersi, tersum, tergere				2	extergimus, extersit
+conuescor	y	conuescor	VER	, uesceris, uesci		Dep.		1	conuescens
+unguo	y	ungo	VER	, ungis vel unguis, unxi, unctum, ungere vel unguere			unguo	15	unguebant, unxit, ungue, unguerent, unguebat, unxisti, unguere
+inunguo	y	inungo	VER	, ungis, unxi, unctum, ungere			inunguo	1	inungue
+coutor	y	coutor	VER	, uteris, uti		Dep.		1	coutuntur
+suggillo	y	sugillo	VER	o, as, āvi, ātum, are, a.			suggillo	1	suggillet
+adsum	y	assum1	VER					8	aderant, adfuit, adest, adestis, adsumus
+exquaero	y	exquiro	VER				exquaero	1	exquisierat
+inquam	y	inquio	VER					8	inquit, inquiunt, inquiens
+intellego	y	intelligo	VER				intellego	40	intellegunt, intellexerant, intellegebant, intellego, intellegite, intellegimus, intellegit, intellegis, intellegent, intellegitis, intellegetis, intellegens, intellexistis, intellegerent, intellegant, intellegat, intellegentes, intellecta, intellexerunt, intellegere
+intinguo	y	intingo	VER				intinguo	5	intinctum, intinguat, intinguit, intinxisset
+occidens	y	occido2	VER					3	occidente

@@ -140,7 +140,7 @@ spiritaliter	y	spiritaliter	ADV				spiritualiter	2	spiritaliter
 superabundanter	y	superabundanter	ADV					1	superabundanter
 ulterius	y	ulterior	ADV				ulterius	1	ulterius
 unianimiter	y	unanimiter	ADV				unianimiter	6	unianimiter
-usquequo	y	usque	ADVint				usquequo	3	usquequo
+usquequo	y	usque	ADV				usquequo	3	usquequo
 nequando	y	nequando	CONsub					2	nequando
 alleluia	y	alleluia	INJ					4	alleluia
 osanna	y	hosanna	INJ				osanna	6	osanna
@@ -448,7 +448,6 @@ dragma	y	drachma	NOMcom					3	dragmam, dragmas
 intellegentia	y	intelligentia	NOMcom				intellegentia	1	intellegentias
 subiugale	Probl.	subiugalis	NOMcom					1	subiugalis
 uolatile	y	uolatilis	NOMcom				uolatile	3	uolatilia
-adulescens	var		NOMcom, ADJqua	-> adolescens1 (NOMcom), -> adolescens2 (ADJqua)				14	adulescens, adulescentis, adulescentem, adulescentes, adulescentior
 oriens	y	Oriens	NOMpro	, entis, m.				7	oriente
 berillus	y	Beryllus	NOMpro	, i, m.				1	berillus
 idolium	y	idoleum	NOMpro	, ii, n.			idolium	1	idolio

@@ -12,7 +12,7 @@ uiginti.quattuor	CARD		ADJcar					4	uiginti.quattuor
 uiginti.quinque	CARD		ADJcar					1	uiginti.quinque
 bini	y	binus	ADJdis	, ae, a				3	binos, binas
 centeni	y	centeni	ADJdis	, ae, a	21			1	centenos
-sexagensimus	CARD		ADJord					1	sexagesimum
+sexagensimus	CARD	sexagesimus	ADJord					1	sexagesimum
 africus	y	Africus	ADJqua	, a, um	23			1	africum
 animaequus	y	animaequus	ADJqua	, a, um	21			2	animaequior, animaequiores
 arcarius	y	arcarius	ADJqua	, a, um	21			1	arcarius

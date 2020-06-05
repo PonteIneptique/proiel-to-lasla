@@ -60,15 +60,20 @@ with open("nt-manual.aligned.tsv", "w") as f:
 			lines1 = [
 				(nb_line, *line.strip().split("\t"))
 				for nb_line, line in enumerate(f1)
-				if not line.startswith("$") and nb_line != 0
+				#if not line.startswith("$") and nb_line != 0
+				if nb_line != 0
 			]
 			lines2 = [
 				(nb_line, *line.strip().split("\t"))
 				for nb_line, line in enumerate(f2)
-				if not line.startswith("$") and nb_line != 0
+				#if not line.startswith("$") and nb_line != 0
+				if nb_line != 0
 			]
 			for ((nb1, t1, l1, p1, m1), (nb2, t2, l2, p2, m2, i2)) in zip(lines1, lines2):
-				if t1 != t2:
+				if t1 == "$":
+					f.write("\n")
+					continue
+				elif t1 != t2:
 					print(nb1, nb2)
 					print(t1, t2)
 					break
